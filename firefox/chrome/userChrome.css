@@ -1,0 +1,26 @@
+
+* {
+	font-family: Helvetica !important;
+	font-size: 12px !important;
+}
+
+toolbarbutton.bookmark-item > .toolbarbutton-icon {
+        display: none;
+}
+
+.bookmark-item > .menu-iconic-left > .menu-iconic-icon {
+        display: none;
+}
+
+tabbrowser-tabs .tab-icon {
+        display: none !important;
+}
+
+#urlbar > dropmarker {
+        display: none !important;
+}
+
+#page-proxy-deck {
+        display: none !important;
+}
+
