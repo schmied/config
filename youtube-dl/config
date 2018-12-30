@@ -1,6 +1,3 @@
-
 --restrict-filenames
 --no-check-certificate
 -o /usr/home/schmied/Downloads/%(playlist_index)s_%(upload_date)s_%(title)s_%(height)sp.%(ext)s
-
-

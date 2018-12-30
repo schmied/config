@@ -8,13 +8,8 @@ font -adobe-helvetica-medium-r-*-*-8-*-*-*-*-*-iso10646-1
 floating_modifier Mod4
 
 bindsym Mod4+Return exec xterm
-bindsym Mod4+Shift+a exec avidemux3_qt4
-bindsym Mod4+Shift+b exec bitcoin-qt
 bindsym Mod4+Shift+f exec firefox
-bindsym Mod4+Shift+d exec kdenlive
-bindsym Mod4+Shift+p exec pidgin
 bindsym Mod4+Shift+t exec thunderbird
-bindsym Mod4+Shift+v exec gvim
 bindsym Mod4+Shift+x exec xfe
 bindsym Mod4+minus exec /home/schmied/bin/vol_up
 bindsym Mod4+Shift+minus exec mixer 60
@@ -98,4 +93,3 @@ bindsym Mod4+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcu
 bar {
         status_command ~schmied/bin/i3fbsdstatus
 }
-
