@@ -1,0 +1,5 @@
+gtk-theme-name = "MS-Windows"
+style "win32-font" {
+  font_name = "arial 9"
+}
+class "*" style "win32-font"
