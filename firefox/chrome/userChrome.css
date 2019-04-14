@@ -1,17 +1,48 @@
 * {
-    font-family: Helvetica !important;
-    font-size: 12px !important;
+  font-family: Helvetica !important;
+  font-size: 12px !important;
 }
 
 .tab-content > image {
-        display: none !important;
+  display: none !important;
 }
 
 .bookmark-item image {
-        display: none !important;
+  display: none !important;
 }
 
-* {
-	font-family: Helvetica !important;
-	font-size: 12px !important;
+#context-inspect, #inspect-separator {
+  display: none !important;
+}
+
+#context-pocket {
+  display: none !important;
+}
+
+#context-savelinktopocket {
+  display: none !important;
+}
+
+#context-searchselect {
+  display: none !important;
+}
+
+#context-selectall, #context-sep-selectall {
+  display: none !important;
+}
+
+#context-sendlinktodevice, #context-sep-sendlinktodevice {
+  display: none !important;
+}
+
+#context-sendpagetodevice, #context-sep-sendpagetodevice {
+  display: none !important;
+}
+
+#context-sendtabtodevice, #context-sep-sendtabtodevice {
+  display: none !important;
+}
+
+#context-viewpartialsource-selection {
+  display: none !important;
 }
